@@ -1,0 +1,14 @@
+C:\Users\berninid\OneDrive\wkC#\SimpleSocketClient\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\berninid\OneDrive\wkC#\SimpleSocketClient\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\berninid\OneDrive\wkC#\SimpleSocketClient\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\berninid\OneDrive\wkC#\SimpleSocketClient\ConsoleApp4\obj\Debug\SimpleSocketClient.csprojAssemblyReference.cache
+C:\Users\berninid\OneDrive\wkC#\SimpleSocketClient\ConsoleApp4\obj\Debug\SimpleSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\berninid\OneDrive\wkC#\SimpleSocketClient\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\berninid\OneDrive\wkC#\SimpleSocketClient\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\DIEGO\LAVORO\SVILUPPO\wkC#\SimpleSocketClient\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\DIEGO\LAVORO\SVILUPPO\wkC#\SimpleSocketClient\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\DIEGO\LAVORO\SVILUPPO\wkC#\SimpleSocketClient\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\DIEGO\LAVORO\SVILUPPO\wkC#\SimpleSocketClient\ConsoleApp4\obj\Debug\SimpleSocketClient.csprojAssemblyReference.cache
+C:\DIEGO\LAVORO\SVILUPPO\wkC#\SimpleSocketClient\ConsoleApp4\obj\Debug\SimpleSocketClient.csproj.CoreCompileInputs.cache
+C:\DIEGO\LAVORO\SVILUPPO\wkC#\SimpleSocketClient\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\DIEGO\LAVORO\SVILUPPO\wkC#\SimpleSocketClient\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
