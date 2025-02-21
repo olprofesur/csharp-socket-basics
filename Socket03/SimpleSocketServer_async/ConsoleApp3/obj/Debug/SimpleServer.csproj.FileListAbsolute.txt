@@ -1,7 +1,0 @@
-C:\Users\berninid\OneDrive\wkC#\ConsoleApp3\ConsoleApp3\bin\Debug\SimpleServer.exe.config
-C:\Users\berninid\OneDrive\wkC#\ConsoleApp3\ConsoleApp3\bin\Debug\SimpleServer.exe
-C:\Users\berninid\OneDrive\wkC#\ConsoleApp3\ConsoleApp3\bin\Debug\SimpleServer.pdb
-C:\Users\berninid\OneDrive\wkC#\ConsoleApp3\ConsoleApp3\obj\Debug\SimpleServer.csprojAssemblyReference.cache
-C:\Users\berninid\OneDrive\wkC#\ConsoleApp3\ConsoleApp3\obj\Debug\SimpleServer.csproj.CoreCompileInputs.cache
-C:\Users\berninid\OneDrive\wkC#\ConsoleApp3\ConsoleApp3\obj\Debug\SimpleServer.exe
-C:\Users\berninid\OneDrive\wkC#\ConsoleApp3\ConsoleApp3\obj\Debug\SimpleServer.pdb
