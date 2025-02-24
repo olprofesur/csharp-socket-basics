@@ -33,3 +33,10 @@ C:\DIEGO\GoogleDrive-Paleocapa\materiale-tep-V\materiale-c#-socket\Socket03\Simp
 C:\DIEGO\GoogleDrive-Paleocapa\materiale-tep-V\materiale-c#-socket\Socket03\SimpleSocketServer_Thread\ConsoleApp3\obj\Debug\SimpleSocketServer.csproj.CoreCompileInputs.cache
 C:\DIEGO\GoogleDrive-Paleocapa\materiale-tep-V\materiale-c#-socket\Socket03\SimpleSocketServer_Thread\ConsoleApp3\obj\Debug\SimpleServer.exe
 C:\DIEGO\GoogleDrive-Paleocapa\materiale-tep-V\materiale-c#-socket\Socket03\SimpleSocketServer_Thread\ConsoleApp3\obj\Debug\SimpleServer.pdb
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket03\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\bin\Debug\SimpleServer.exe.config
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket03\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\bin\Debug\SimpleServer.exe
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket03\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\bin\Debug\SimpleServer.pdb
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket03\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\obj\Debug\SimpleSocketServer.csproj.AssemblyReference.cache
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket03\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\obj\Debug\SimpleSocketServer.csproj.CoreCompileInputs.cache
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket03\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\obj\Debug\SimpleServer.exe
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket03\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\obj\Debug\SimpleServer.pdb

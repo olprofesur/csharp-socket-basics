@@ -32,15 +32,19 @@ public class SynchronousSocketClient
                     sender.RemoteEndPoint.ToString());
 
                 // Encode the data string into a byte array.  
-                byte[] msg = Encoding.ASCII.GetBytes("This is a test<EOF>");
+                byte[] msg = Encoding.ASCII.GetBytes("This is a test$");
 
                 // Send the data through the socket.  
                 int bytesSent = sender.Send(msg);
 
-                // Receive the response from the remote device.  
-                int bytesRec = sender.Receive(bytes);
+                string data = "";
+                do
+                {
+                    int bytesRec = sender.Receive(bytes);
+                    data += Encoding.ASCII.GetString(bytes, 0, bytesRec);
+                } while (data.IndexOf("$") == -1);
                 Console.WriteLine("Echoed test = {0}",
-                    Encoding.ASCII.GetString(bytes, 0, bytesRec));
+                    data);
 
                 // Release the socket.  
                 sender.Shutdown(SocketShutdown.Both);

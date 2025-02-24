@@ -43,11 +43,11 @@ public class SynchronousSocketListener
                 {
                     // An incoming connection needs to be processed.  
                     data = "";
-                    while (data.IndexOf("$") == -1)
+                    do
                     {
                         int bytesRec = handler.Receive(bytes);
                         data += Encoding.ASCII.GetString(bytes, 0, bytesRec);
-                    }
+                    }while(data.IndexOf("$") == -1);
 
                     // Show the data on the console.  
                     Console.WriteLine("Messaggio ricevuto : {0}", data);

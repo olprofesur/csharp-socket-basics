@@ -37,18 +37,15 @@ public class SynchronousSocketListener
                 Console.WriteLine("Waiting for a connection...");
                 // Program is suspended while waiting for an incoming connection.  
                 Socket handler = listener.Accept();
-                data = null;
+                data = "";
 
-                // An incoming connection needs to be processed.  
-                while (true)
+                // An incoming connection needs to be processed
+                // ...with simply echo and then close
+                do
                 {
                     int bytesRec = handler.Receive(bytes);
                     data += Encoding.ASCII.GetString(bytes, 0, bytesRec);
-                    if (data.IndexOf("<EOF>") > -1)
-                    {
-                        break;
-                    }
-                }
+                } while (data.IndexOf("$") == -1);
 
                 // Show the data on the console.  
                 Console.WriteLine("Text received : {0}", data);

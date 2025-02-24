@@ -12,3 +12,10 @@ C:\Users\livel\Desktop\Nuovo_PC\Tps\5IE\Socket\20201114Esercizio\SimpleSocketSer
 C:\Users\livel\Desktop\Nuovo_PC\Tps\5IE\Socket\20201114Esercizio\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleSocketServer.csproj.CoreCompileInputs.cache
 C:\Users\livel\Desktop\Nuovo_PC\Tps\5IE\Socket\20201114Esercizio\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleServer.exe
 C:\Users\livel\Desktop\Nuovo_PC\Tps\5IE\Socket\20201114Esercizio\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleServer.pdb
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket02\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleSocketServer.csproj.AssemblyReference.cache
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket02\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleSocketServer.csproj.CoreCompileInputs.cache
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket02\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleServer.exe
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket02\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleServer.pdb
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket02\SimpleSocketServer\ConsoleApp3\bin\Debug\SimpleServer.exe.config
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket02\SimpleSocketServer\ConsoleApp3\bin\Debug\SimpleServer.exe
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket02\SimpleSocketServer\ConsoleApp3\bin\Debug\SimpleServer.pdb

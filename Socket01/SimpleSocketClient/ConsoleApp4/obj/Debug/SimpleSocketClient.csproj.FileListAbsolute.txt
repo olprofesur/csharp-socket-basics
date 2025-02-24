@@ -12,3 +12,10 @@ C:\DIEGO\LAVORO\SVILUPPO\wkC#\SimpleSocketClient\ConsoleApp4\obj\Debug\SimpleSoc
 C:\DIEGO\LAVORO\SVILUPPO\wkC#\SimpleSocketClient\ConsoleApp4\obj\Debug\SimpleSocketClient.csproj.CoreCompileInputs.cache
 C:\DIEGO\LAVORO\SVILUPPO\wkC#\SimpleSocketClient\ConsoleApp4\obj\Debug\ConsoleApp4.exe
 C:\DIEGO\LAVORO\SVILUPPO\wkC#\SimpleSocketClient\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket01\SimpleSocketClient\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket01\SimpleSocketClient\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket01\SimpleSocketClient\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket01\SimpleSocketClient\ConsoleApp4\obj\Debug\SimpleSocketClient.csproj.AssemblyReference.cache
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket01\SimpleSocketClient\ConsoleApp4\obj\Debug\SimpleSocketClient.csproj.CoreCompileInputs.cache
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket01\SimpleSocketClient\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket01\SimpleSocketClient\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

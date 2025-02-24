@@ -33,7 +33,8 @@ public class SynchronousSocketClient
 
                 Console.WriteLine("Socket connected to {0}",
                     sender.RemoteEndPoint.ToString());
-                while (data != "Quit$")
+
+                do
                 {
                     stringa_da_inviare = "Messaggio di prova$";
                     if (stringa_casuale.Next(0, 10) > 8)
@@ -42,17 +43,20 @@ public class SynchronousSocketClient
 
                     // Send the data through the socket.  
                     int bytesSent = sender.Send(msg);
+
                     data = "";
                     // Receive the response from the remote device.  
-                    while (data.IndexOf("$") == -1)
+                    do
                     {
                         int bytesRec = sender.Receive(bytes);
                         data += Encoding.ASCII.GetString(bytes, 0, bytesRec);
-                    }
+                    } while (data.IndexOf("$") == -1);
+
                     Console.WriteLine("Messaggio ricevuto: " + data);
                     System.Threading.Thread.Sleep(1000);
-                // Release the socket.
-                 }
+                    // Release the socket.
+                }while(data != "Quit$");
+
                 sender.Shutdown(SocketShutdown.Both);
                 sender.Close();
 
