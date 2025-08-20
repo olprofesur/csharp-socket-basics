@@ -19,3 +19,4 @@ C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket02\SimpleSock
 C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket02\SimpleSocketServer\ConsoleApp3\bin\Debug\SimpleServer.exe.config
 C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket02\SimpleSocketServer\ConsoleApp3\bin\Debug\SimpleServer.exe
 C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket02\SimpleSocketServer\ConsoleApp3\bin\Debug\SimpleServer.pdb
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket02\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleServer.exe.config

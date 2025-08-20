@@ -40,3 +40,4 @@ C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket03\SimpleSock
 C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket03\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\obj\Debug\SimpleSocketServer.csproj.CoreCompileInputs.cache
 C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket03\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\obj\Debug\SimpleServer.exe
 C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket03\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\obj\Debug\SimpleServer.pdb
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket03\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\obj\Debug\SimpleServer.exe.config

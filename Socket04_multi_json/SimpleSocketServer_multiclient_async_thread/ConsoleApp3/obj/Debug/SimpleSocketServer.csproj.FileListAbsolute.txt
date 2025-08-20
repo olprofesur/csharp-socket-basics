@@ -46,3 +46,4 @@ C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket04_multi_json
 C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket04_multi_json\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\obj\Debug\SimpleSo.F0A3EB2C.Up2Date
 C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket04_multi_json\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\obj\Debug\SimpleServer.exe
 C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket04_multi_json\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\obj\Debug\SimpleServer.pdb
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-socket-basics\Socket04_multi_json\SimpleSocketServer_multiclient_async_thread\ConsoleApp3\obj\Debug\SimpleServer.exe.config

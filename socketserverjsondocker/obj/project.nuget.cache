@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hTD+3kGYFtA=",
+  "success": true,
+  "projectFilePath": "C:\\DIEGO\\GoogleDriveOlProfesur\\sviluppo\\csharp-socket-basics\\socketserverjsondocker\\socketserverjsondocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
